@@ -7,7 +7,7 @@
 class Country {
     String name = "云阳";
     String value(String name){
-        name = "印度";
+        name = "印度5";
         return this.name;
     }
 }
